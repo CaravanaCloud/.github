@@ -31,6 +31,16 @@ This includes any testing and verification related to the task in execution.
 The expected review time is under one week.
 Any reviews waiting feedback for more than two weeks can be considered accepted and merged by any contributor.
 
+*How long do i have to complete a bounty ticket?* 
+
+There is no fixed time limit to turn in tickets. 
+However, if you are stuck, please seek help and join the office-hours meeting.
+
+*How many bounty tickets can one tak?* 
+
+It's usually better to work on one ticket at a time, or two at most.
+This is better for one's focus and to leave tickets available for other fellow collaborators.
+
 *Anything else?*
 
 Call us on help@caravana.cloud, https://twitter.com/caravanacloud or the next office hours meeting at https://caravana.cloud/office-hours
