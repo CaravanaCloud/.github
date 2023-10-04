@@ -14,7 +14,7 @@ Join the trip! There are many ways to participate...
 
 Our office-hours meeting is open to anyone wanting to contribute:
 
-https://caravana.cloud/office-hours
+https://redhacks.net
 
 If you see any project you like or issue that you'd like to tackle, feel free to send us a message and join the conversation and get started. 
 
