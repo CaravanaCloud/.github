@@ -1,46 +1,35 @@
-# Bounty Tickets
+# Bounties Program
 
-Bounty tickets are an incentive to participation in our projects, eligible to all contributors, with the following disclaimer:
+We incitivize people to contribute to project development by associating rewards to tickets.
+This is not meant as a contract or labor relationship of any kind. 
+Bouties are a simple incentive to motivate people to practice and take the next step in their careers through open-source projects.
 
-1. The compensation associated with the bounty is not a remuneration for work or services, and does not constitute a relationship between CaravanaCloud and the bounty claimer.
+# Eligibility
 
-2. The compensation associated with your bounties can be claimed monthly, exclusively through GitHub Sponsors or Bountysource.
+To claim a ticket, one must:
 
-3. The claimer is responsible for all taxes and fees legally applicable in their country.
+* Be able to communicate in basic written english.
+  Prefer english in all descriptions and comments to promote international collaboration.
 
-Look for the "bounty" tag in our issues and happy hunting!
+* Have an account and be able to receive rewards on [algora.io](https://algora.io)
 
-# F.A.Q.
+* Be the single assignee of the ticket. 
+  Please assign the ticket to yourself if you plan to claim a ticket.
+  Please be considerate of others and avoid assigning more than 2-3 tickets at time.
+  Tickets idle for more than 30 days may be reassigned.
 
-*How much is a bounthy worth?*
+* Elaborate the ticket description, comments and information.
+  Some tickets are created with a very brief comment.
+  It's up to the assignee to add enough detail to make the work on the ticket understandable to reviewerss.
 
-Unless tagged with another value, a bounty is associated with a reward of $50 EUR.
+* The ticket is explicitily approved by one or more reviewers.
 
-*When can a bounty be claimed?*
+If your ticket meets this criteria, you are welcome to submit your claim.
 
-A bounty can be claimed anytime after the work is done and the ticket is closed.
-Please note that the bounty ticket is just a maker, the actual work may be associated with many tickets.
+Currently, all bounties are assigned the fixed value of $20. No extras will be paid under any circumstances, including taxes and expenses of the assignee.
 
-*When is a ticket done?*
+# Support
 
-A ticket is done once the work has been reviewed, merged and the ticket is closed.
-This includes any testing and verification related to the task in execution.
+If you need any help, feel free to ask on project tickets, discussions or on our discord server.
+Please consider becoming a sponsor and joining our weekly meetings and shared resources.
 
-*How long does it take for a review?*
-
-The expected review time is under one week.
-Any reviews waiting feedback for more than two weeks can be considered accepted and merged by any contributor.
-
-*How long do i have to complete a bounty ticket?* 
-
-There is no fixed time limit to turn in tickets. 
-However, if you are stuck, please seek help and join the office-hours meeting.
-
-*How many bounty tickets can one tak?* 
-
-It's usually better to work on one ticket at a time, or two at most.
-This is better for one's focus and to leave tickets available for other fellow collaborators.
-
-*Anything else?*
-
-Call us on help@caravana.cloud, https://twitter.com/caravanacloud or the next office hours meeting at https://caravana.cloud/office-hours
