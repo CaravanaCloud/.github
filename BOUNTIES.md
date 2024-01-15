@@ -15,7 +15,7 @@ To claim a ticket, one must:
 
 * Check that you are on the GitHub team:
   https://github.com/orgs/CaravanaCloud/teams/caravana-cloud
-  Request access to the GitHub team or any other necessary tool using our [discord #help channel] (https://discord.gg/SEnMwASXzV) 
+  Request access to the GitHub team or any other necessary tool using our [discord #help channel](https://discord.gg/SEnMwASXzV) 
 
 * Be the single assignee of the ticket. 
   Please assign the ticket to yourself if you plan to claim a ticket.
