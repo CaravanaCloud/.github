@@ -13,6 +13,10 @@ To claim a ticket, one must:
 
 * Have an account and be able to receive rewards on [algora.io](https://algora.io)
 
+* Check that you are on the GitHub team:
+  https://github.com/orgs/CaravanaCloud/teams/caravana-cloud
+  Request access to the GitHub team or any other necessary tool using our [discord #help channel] (https://discord.gg/SEnMwASXzV) 
+
 * Be the single assignee of the ticket. 
   Please assign the ticket to yourself if you plan to claim a ticket.
   Please be considerate of others and avoid assigning more than 2-3 tickets at time.
@@ -30,6 +34,6 @@ Currently, all bounties are assigned the fixed value of $20. No extras will be p
 
 # Support
 
-If you need any help, feel free to ask on project tickets, discussions or on our discord server.
+If you need any help, feel free to ask on project tickets, discussions, or on our [discord #help channel](https://discord.gg/SEnMwASXzV).
 Please consider becoming a sponsor and joining our weekly meetings and shared resources.
 
